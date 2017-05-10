@@ -1,0 +1,30 @@
+.bgimg {
+    background-image: url('../img/background.jpg');
+    height: 300px;
+    /*width: 100%;*/
+    display: block;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+#inner {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.wave-spinner {
+    background-color: #ffffff;
+}
+
+td
+{
+    height: 50px;
+    width:50px;
+}
+
+#cssTable td
+{
+    text-align:center;
+    vertical-align:middle;
+}

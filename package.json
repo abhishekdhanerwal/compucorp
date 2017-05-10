@@ -1,0 +1,26 @@
+{
+  "name": "compucorp",
+  "version": "1.0.0",
+  "description": "The music search app",
+  "main": "index.js",
+  "dependencies": {
+    "angular-spinkit": "^0.3.4",
+    "angular-spotify": "^1.4.3",
+    "animate.css": "~3.5.2",
+    "body-parser": "1.13.1",
+    "express": "4.13.0",
+    "jasmine-core": "2.3.4",
+    "karma": "0.12.37",
+    "karma-chrome-launcher": "0.2.0",
+    "karma-jasmine": "0.3.6",
+    "karma-ng-html2js-preprocessor": "0.1.2",
+    "ng-table": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma start test/karma.conf.js",
+    "start": "node scripts/web-server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
