@@ -1,5 +1,7 @@
 # Music Search App
 
+### Testing
+On command line you have to run "npm test" and all the unit tests would be executed.
 
 ### Server
 
